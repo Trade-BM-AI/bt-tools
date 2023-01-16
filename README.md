@@ -1,2 +1,2 @@
 # bt-tools
-Our tools for testing strategies
+## This code based on [backtesting.py](https://github.com/kernc/backtesting.py)
